@@ -64,7 +64,7 @@ int main(){
         count++;
 	}
 	system("clear");
-	;
+	
 	if( win==1 ){
 		printf("--------| congratulation ! |----------\n");
 		printf("     ____________________\n");
