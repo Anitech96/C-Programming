@@ -82,7 +82,7 @@ int main(){
 		printf("\ngame over....\n\n");
 	}
     else if( count == 10 ){
-        printf("\n\t\tGame draw !...<(*-*)>\n\n");
+        printf("\n\n\n ......Game draw !...<(*-*)>\n\n");
         return 0;
     }
 }
